@@ -8,6 +8,7 @@ My name is Sahil Papalkar and I'm a graduate student at NC State University. I'm
 ![](https://img.shields.io/badge/Python-JavaScript?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Javascript-JavaScript?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MySQL-JavaScript?style=flat&logo=mysql&logoColor=white&color=F9AB00)
+![](https://img.shields.io/badge/PostgreSQL-JavaScript?style=flat&logo=postgresql&logoColor=white&color=F9AB00)
 ![](https://img.shields.io/badge/MongoDB-JavaScript?style=flat&logo=mongodb&logoColor=white&color=F9AB00)
 ![](https://img.shields.io/badge/Flask-JavaScript?style=flat&logo=flask&logoColor=white&color=118CEE)
 ![](https://img.shields.io/badge/Django-JavaScript?style=flat&logo=django&logoColor=white&color=118CEE)
